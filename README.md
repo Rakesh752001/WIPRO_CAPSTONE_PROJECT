@@ -1,9 +1,9 @@
 # WIPRO_CAPSTONE_PROJECT
 
-📌 Overview
+📌 Overview:
 Automates functional testing of the NopCommerce demo site using Java, Selenium WebDriver, TestNG, and Cucumber. Includes Page Object Model, logging, reporting, and covers workflows like registration, product browsing, cart, and checkout.
 
-🎯 Features
+🎯 Features:
 ✅ Manual test cases for all functional modules
 ✅ Automated scripts using Java + Selenium WebDriver + TestNG
 ✅ Cucumber (BDD) scenarios for readability and reporting
@@ -12,7 +12,7 @@ Automates functional testing of the NopCommerce demo site using Java, Selenium W
 ✅ Requirement Traceability Matrix (RTM) for full coverage
 ✅ Defect reports with logging and screenshots
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:
 Languages: Java
 Automation: Selenium WebDriver, TestNG, Cucumber (BDD)
 Build Tool: Apache Maven
